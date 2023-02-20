@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "553856031241",
+    "project_id": "pocetno-e6d04",
+    "storage_bucket": "pocetno-e6d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553856031241:android:fe2ced9239075bf930b6d8",
+        "android_client_info": {
+          "package_name": "com.mue.pocetno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553856031241-9mfj191vcso28oc0j6b77c4980cmeep2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mue.pocetno",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "553856031241-rcao030ll940nfl95b35qqiv2euqkj9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD754mBVNQmM936YdrsbhG96PbdcBC2B5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553856031241-rcao030ll940nfl95b35qqiv2euqkj9e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553856031241-5podghnc03vu7jrg753p3rgtgks03ndf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mue.pocetno"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
