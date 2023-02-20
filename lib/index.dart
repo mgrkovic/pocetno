@@ -7,3 +7,4 @@ export 'rich_text/rich_text_widget.dart' show RichTextWidget;
 export 'stranica6/stranica6_widget.dart' show Stranica6Widget;
 export 'definicije/definicije_widget.dart' show DefinicijeWidget;
 export 'main_menu/main_menu_widget.dart' show MainMenuWidget;
+export 'template1/template1_widget.dart' show Template1Widget;

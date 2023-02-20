@@ -133,6 +133,11 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
               name: 'Main_menu',
               path: 'mainMenu',
               builder: (context, params) => MainMenuWidget(),
+            ),
+            FFRoute(
+              name: 'template1',
+              path: 'template1',
+              builder: (context, params) => Template1Widget(),
             )
           ].map((r) => r.toRoute(appStateNotifier)).toList(),
         ).toRoute(appStateNotifier),

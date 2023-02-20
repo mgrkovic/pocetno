@@ -375,6 +375,97 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
   },
+  // template1
+  {
+    'xk87tpdr': {
+      'hr': 'Create Task',
+      'en': '',
+    },
+    '3zqpzbnu': {
+      'hr': 'Task Name',
+      'en': '',
+    },
+    '65fhkl23': {
+      'hr': 'Enter description here...',
+      'en': '',
+    },
+    'zp35s11d': {
+      'hr': 'Team 1',
+      'en': '',
+    },
+    'di7fkal3': {
+      'hr': 'Team 2',
+      'en': '',
+    },
+    'ww9ctjz1': {
+      'hr': 'Team 3',
+      'en': '',
+    },
+    'c9dgwf8s': {
+      'hr': 'Select Team',
+      'en': '',
+    },
+    'zdrxeovu': {
+      'hr': 'User 1',
+      'en': '',
+    },
+    'zjeuuu6c': {
+      'hr': 'Team 2',
+      'en': '',
+    },
+    '28i82i28': {
+      'hr': 'Team 3',
+      'en': '',
+    },
+    'se7qqalk': {
+      'hr': 'Select User',
+      'en': '',
+    },
+    '8xxs6uam': {
+      'hr': 'Not Started',
+      'en': '',
+    },
+    'smtmz4lv': {
+      'hr': 'In Progress',
+      'en': '',
+    },
+    'rdtva9oq': {
+      'hr': 'Complete',
+      'en': '',
+    },
+    '6ausqw9n': {
+      'hr': 'Select Status',
+      'en': '',
+    },
+    'kvso4y9p': {
+      'hr': 'Start Date',
+      'en': '',
+    },
+    'l0jjs45d': {
+      'hr': 'Due Date',
+      'en': '',
+    },
+    'h7468xsa': {
+      'hr': 'Create Task',
+      'en': '',
+    },
+    '8k7azvjg': {
+      'hr': 'Field is required',
+      'en': '',
+    },
+    '9m80z0xv': {
+      'hr': 'Field is required',
+      'en': '',
+    },
+    'ndd2pu2u': {
+      'hr': 'Field is required',
+      'en': '',
+    },
+    '30ezpkd0': {
+      'hr': 'Field is required',
+      'en': '',
+    },
+  },
   // Miscellaneous
   {
     'yqaijz24': {
